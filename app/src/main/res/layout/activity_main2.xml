@@ -226,6 +226,7 @@
                             android:layout_height="match_parent"
                             android:layout_weight="1"
                             android:paddingLeft="35dp"
+                            android:onClick="main2Click"
                             android:paddingTop="15dp"
                             android:text="Netflix Originals"
                             android:textColor="#ffffff"
@@ -519,6 +520,7 @@
                             android:paddingLeft="35dp"
                             android:paddingTop="30dp"
                             android:text="App Settings"
+                            android:onClick="main1Click"
                             android:textColor="#ffffff"
                             android:textSize="20sp" />
 

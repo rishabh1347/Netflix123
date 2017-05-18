@@ -10,6 +10,14 @@ public class Main2Activity extends AppCompatActivity {
         Intent intent = new Intent(this, Main3Activity.class);
         startActivity(intent);
     }
+    public void main1Click(View view) {
+        Intent intent = new Intent(this, Main4Activity.class);
+        startActivity(intent);
+    }
+    public void main2Click(View view) {
+        Intent intent = new Intent(this, Main5Activity.class);
+        startActivity(intent);
+    }
 
 
     @Override
